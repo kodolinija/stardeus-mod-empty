@@ -1,0 +1,16 @@
+{
+    // TODO: Change the ID
+    "Id" : "Empty",
+    // TODO: Change this to true in order to share your mod on Steam Workshop
+    "SteamWorkshop" : false,
+    // TODO: Fill in the name
+    "Name" : "Empty Mod",
+    // TODO: Change the description
+    "Description" : "Use this as a starting point to create your own mod",
+    "ModVersion" : "1.0.0",
+    // TODO: Change the version to the one the game was created with
+    "GameVersion" : "0.12.17",
+    // TODO: If this mod depends on some other mods, list their IDs here,
+    // otherwise delete the dependencies
+    "Dependencies" : [ "ModA", "ModB" ]
+}
