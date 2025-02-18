@@ -8,9 +8,9 @@
     // TODO: Change the description
     "Description" : "Use this as a starting point to create your own mod",
     "ModVersion" : "1.0.0",
-    // TODO: Change the version to the one the game was created with
-    "GameVersion" : "0.12.17",
-    // TODO: If this mod depends on some other mods, list their IDs here,
-    // otherwise delete the dependencies
-    "Dependencies" : [ "ModA", "ModB" ]
+    // TODO: Change the version to the game version the mod was created with
+    "GameVersion" : "0.12.17"
+    // TODO: If this mod depends on some other mods, list their IDs here.
+    // "Core" does not need to be defined as a dependency.
+    // "Dependencies" : [ "ModA", "ModB" ]
 }
